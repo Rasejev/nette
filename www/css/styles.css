@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.post {
+    width: 30%;
+    height: 50%;
+    background-color: lightblue;
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+}
+
